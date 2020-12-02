@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mashreq-frontend-task/static/css/main.a478337a.chunk.css",
+    "main.js": "/mashreq-frontend-task/static/js/main.872bf0a8.chunk.js",
+    "main.js.map": "/mashreq-frontend-task/static/js/main.872bf0a8.chunk.js.map",
+    "runtime-main.js": "/mashreq-frontend-task/static/js/runtime-main.c11d90fc.js",
+    "runtime-main.js.map": "/mashreq-frontend-task/static/js/runtime-main.c11d90fc.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/mashreq-frontend-task/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.378e79ee.chunk.js": "/mashreq-frontend-task/static/js/2.378e79ee.chunk.js",
+    "static/js/2.378e79ee.chunk.js.map": "/mashreq-frontend-task/static/js/2.378e79ee.chunk.js.map",
+    "static/js/3.aa60a75e.chunk.js": "/mashreq-frontend-task/static/js/3.aa60a75e.chunk.js",
+    "static/js/3.aa60a75e.chunk.js.map": "/mashreq-frontend-task/static/js/3.aa60a75e.chunk.js.map",
+    "index.html": "/mashreq-frontend-task/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/mashreq-frontend-task/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.a478337a.chunk.css.map": "/mashreq-frontend-task/static/css/main.a478337a.chunk.css.map",
+    "static/js/2.378e79ee.chunk.js.LICENSE.txt": "/mashreq-frontend-task/static/js/2.378e79ee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mashreq-frontend-task/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c11d90fc.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.378e79ee.chunk.js",
+    "static/css/main.a478337a.chunk.css",
+    "static/js/main.872bf0a8.chunk.js"
+  ]
+}
